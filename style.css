@@ -278,3 +278,18 @@ span{
     .map1{
         margin: 0px 6px;
     }
+    .one-upcomming{
+        font-size: 18px;
+        font-weight: 500;
+        color: white;
+        font-weight: 600;
+        margin: 30px 30px 14px 30px;
+        background-color: red;
+    }
+    .three-upcomming{
+        color: black;
+    font-size: 18px;
+    font-weight: 500;
+    margin:15px 30px;
+    
+    }
