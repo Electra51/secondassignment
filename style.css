@@ -321,6 +321,7 @@ h1{
     height: 80%;
     width: 80%;
     justify-content: center;
+    justify-items: center;
     margin-left: 10%;
 }
 .navbar button{
@@ -335,7 +336,7 @@ h1{
     padding-left: 14px;
 }
 .sport{
-    width: 125%;
+    width: 112%;
 }
 .sports-banner img{
     height: 60%;
